@@ -63,6 +63,7 @@ cd advanced-image-editor
 open index.html
 # or
 python -m http.server 8000  # For local server
+```
 
 📖 How to Use
 
